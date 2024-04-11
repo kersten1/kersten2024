@@ -1,5 +1,5 @@
 = RISC-V Example Specification Document (Zexmpl)
-Authors: Author 1, Author 2
+Authors: Kersten, Author 2
 :docgroup: RISC-V Task Group
 :description: RISC-V Example Specification Document (Zexmpl)
 :company: RISC-V.org
